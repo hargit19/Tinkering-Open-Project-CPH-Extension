@@ -16,7 +16,7 @@ Follow these steps to set up and use the extension:
 
 2. **Go to the main direcotory**
    ```bash
-   cd cph-leetcode-fetcher
+   cd Tinkering-Open-Project-CPH-Extension
 
 3. Start debugging the code
 4. An Extension Host Environment is setup and opened in the VS Code Editor.
