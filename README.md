@@ -11,7 +11,7 @@ VS Code X Leetcode Extension is a VS Code plugin tailored to optimize competitiv
 Here are some demo screenshots of the extension in action:  
 
 ### Screenshot 1  
-![Screenshot 1](path/to/demo-image1.png)  
+![Screenshot 1](Screenshot1.png)  
 
 ### Screenshot 2  
 ![Screenshot 2](Screenshot2.png)  
