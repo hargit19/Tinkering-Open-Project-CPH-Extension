@@ -12,9 +12,11 @@ Here are some demo screenshots of the extension in action:
 
 ### Screenshot 1  
 ![Screenshot 1](Screenshot1.png)  
+> Upon running the 'Fetch Leetcode Test Cases' and putting the leetcode question description link as the input, all the available test cases are fetched.
 
 ### Screenshot 2  
 ![Screenshot 2](Screenshot2.png)  
+> Upon running the command 'Run test cases', and putting the path of the solution file as the input, an output is generated.
 
 ## Demo Video  
 Check out the demo video to see the extension in action:  
