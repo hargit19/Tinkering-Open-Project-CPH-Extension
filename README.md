@@ -14,7 +14,7 @@ Here are some demo screenshots of the extension in action:
 ![Screenshot 1](path/to/demo-image1.png)  
 
 ### Screenshot 2  
-![Screenshot 2](path/to/demo-image2.png)  
+![Screenshot 2](Screenshot2.png)  
 
 ## Demo Video  
 Check out the demo video to see the extension in action:  
