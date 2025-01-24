@@ -38,8 +38,10 @@ Here are some demo screenshots of the extension in action:
 
 ## Demo Video  
 Check out the demo video to see the extension in action:  
+(https://drive.google.com/file/d/1--35pwtYyYvbHa00eO66_3-BvKu4ucVA/view?usp=sharing)
 
-[![Demo Video](path/to/video-thumbnail.png)](path/to/demo-video.mp4)  
-
-> Click the image above to watch the demo video.  
+## Submitted By
+- Name - Hardik Advani
+- Branch - Production and Industrial Engineering
+- Enrollement No - 22113055
 
