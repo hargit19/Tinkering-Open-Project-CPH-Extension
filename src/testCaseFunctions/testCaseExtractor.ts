@@ -1,4 +1,4 @@
-import { TestCase } from './types';
+import { TestCase } from '../types/types';
 
 export function extractTestCases(content: string): TestCase[] {
     const inputOutputPairs: TestCase[] = [];

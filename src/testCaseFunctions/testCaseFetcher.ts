@@ -2,7 +2,7 @@ import * as vscode from 'vscode';
 import axios from 'axios';
 import * as fs from 'fs';
 import * as path from 'path';
-import { GraphQLResponse, TestCase } from './types';
+import { GraphQLResponse, TestCase } from '../types/types';
 import { extractTestCases } from './testCaseExtractor';
 
 export async function fetchAllTestCasesGraphQL(problemSlug: string): Promise<void> {

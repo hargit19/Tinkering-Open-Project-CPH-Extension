@@ -1,6 +1,6 @@
 import * as vscode from 'vscode';
-import { fetchAllTestCasesGraphQL } from './functions/testCaseFetcher';
-import { testAllCases } from './functions/testRunner';
+import { fetchAllTestCasesGraphQL } from './testCaseFunctions/testCaseFetcher';
+import { testAllCases } from './runnerFunctions/testRunner';
 
 export function activate(context: vscode.ExtensionContext) {
     const fetchTestCasesCommand = vscode.commands.registerCommand('cph.fetchTestCases', async () => {

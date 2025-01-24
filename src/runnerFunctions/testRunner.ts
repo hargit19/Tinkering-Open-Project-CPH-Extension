@@ -1,7 +1,7 @@
 import * as vscode from 'vscode';
 import * as fs from 'fs';
 import * as path from 'path';
-import { runUserCode, compareOutputs } from './codeRunner';
+import { runUserCode, compareOutputs } from '../runnerFunctions/codeRunner';
 
 export async function testAllCases(scriptPath: string): Promise<void> {
     try {
